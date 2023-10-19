@@ -1,27 +1,21 @@
-# Excel for Data Analytics: All projects
+# Tableau for Data Analytics: All projects
 
-This repository contains all projects related to data analysis done by **EXCEL**.
-
--------------------------------------------
-:round_pushpin: 3. [Coffee Sales Dashboard](https://github.com/hashinil/excel_Coffee_Sales_Dashboard-Public/tree/main)
-
-This project aims to explore and analyze coffee sales data to derive valuable insights into consumer preferences, market trends, and sales performance. Through this analysis, my aim to provide actionable recommendations for optimizing sales strategies and enhancing the overall coffee shopping experience. :coffee::coffee::coffee:
+This repository contains all projects related to data analysis done by **TABLEAU**.
 
 -------------------------------------------
 
-:round_pushpin: 2. [Bike Sales Dashboard](https://github.com/hashinil/excel_Bike_Sales_Dashboard)
+:round_pushpin: 2. [London Bike Rides Dashboard](https://github.com/hashinil/tableau_LondonBikeRides)
 
-This project aims to explore and analyze coffee sales data to derive valuable insights into consumer preferences, market trends, and sales performance. Through this analysis, my aim to provide actionable recommendations for optimizing sales strategies and enhancing the overall bike sales. :bicyclist::bicyclist::bicyclist:
+**Tableau Dashboard**: [Click](https://public.tableau.com/app/profile/hashini.liyanage/viz/LondonBikeRidesProject_16971086509310/Dashboard1#1)
+
+In this project, my primary aim was to dissect the dataset, uncover hidden insights, and visualize the statistics and patterns of bike rides in London.:bicyclist::bicyclist::bicyclist:
 
 -------------------------------------------
 
-:round_pushpin: 1. [Excel Skills](https://github.com/hashinil/excel_data_analitics)
+:round_pushpin: 1. [AirBnB Project](AirBnB Project)
 
-Here I have practicse most usefull functionalities in **Excel** for data analysis, such as; :feet::feet::feet:
-  - **Pivot Tables**
-  - **Formula**: MAX(), MIN(), IF(), IFS(), LEN(), LEFT(), RIGHT(), DATETOTEXT(), TRIM(), CONCATENATE(), SUBSTITUTE(), SUM(), SUMIF(), SUMIFS(), COUNT(), COUNTIF(), COUNTIFS(), DAYS(), NETWORKDAYS()
-  - **XLOOKUP**: XLookUp, XLookUp Multiple Rows, XLookUp Exact Match, XLookUp Search Order, XLookUp Horizontal, XLookUp w SUM, VLookUp
-  - **Conditional Formatting**
-  - **Charts**
-  - **Data Cleaning**
+**Tableau Dashboard:**[Click](https://github.com/hashinil/tableau_AirBnB/tree/main)
+
+:house_with_garden::house_with_garden::house_with_garden:
+
 
