@@ -12,9 +12,9 @@ In this project, my primary aim was to dissect the dataset, uncover hidden insig
 
 -------------------------------------------
 
-:round_pushpin: 1. [AirBnB Project](AirBnB Project)
+:round_pushpin: 1. [AirBnB Project](https://github.com/hashinil/tableau_AirBnB/tree/main)
 
-**Tableau Dashboard:**[Click](https://github.com/hashinil/tableau_AirBnB/tree/main)
+**Tableau Dashboard:**: [Click](https://public.tableau.com/app/profile/hashini.liyanage/viz/AirBnBProject_16965914925010/Dashboard1#1)
 
 :house_with_garden::house_with_garden::house_with_garden:
 
