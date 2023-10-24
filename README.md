@@ -4,6 +4,14 @@ This repository contains all projects related to data analysis done by **TABLEAU
 
 -------------------------------------------
 
+:round_pushpin: 3. [Bank Customer Churn Dashboard](https://github.com/hashinil/tableau_BankCustomerChurn)
+
+**Tableau Dashboard**: [Click](https://public.tableau.com/app/profile/hashini.liyanage/viz/BankCustomerChurn_16981592629460/Story1#1)
+
+:runner::two_men_holding_hands::two_men_holding_hands:
+
+-------------------------------------------
+
 :round_pushpin: 2. [London Bike Rides Dashboard](https://github.com/hashinil/tableau_LondonBikeRides)
 
 **Tableau Dashboard**: [Click](https://public.tableau.com/app/profile/hashini.liyanage/viz/LondonBikeRidesProject_16971086509310/Dashboard1#1)
