@@ -8,7 +8,7 @@ This repository contains all projects related to data analysis done by **TABLEAU
 
 **Tableau Dashboard**: [Click](https://public.tableau.com/app/profile/hashini.liyanage/viz/BankCustomerChurn_16981592629460/Story1#1)
 
-:runner::two_men_holding_hands::two_men_holding_hands:
+:runner::two_men_holding_hands::two_men_holding_hands::bank::moneybag: 
 
 -------------------------------------------
 
